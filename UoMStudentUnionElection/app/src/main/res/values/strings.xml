@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UoM Student Union Election</string>
+    <string name="ms_yoyce_limfook">Ms Yoyce Limfook</string>
+    <string name="mr_faizul_ally">Mr Faizul Ally</string>
+    <string name="mr_jean_luc">Mr Jean Luc</string>
+    <string name="name_of_voter_is_voting_for">[Name Of Voter] is voting for:</string>
+    <string name="save">Save</string>
+    <string name="student_id">Student ID:</string>
+</resources>
