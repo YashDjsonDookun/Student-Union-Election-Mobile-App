@@ -1,0 +1,32 @@
+{ 
+   "Students":[ 
+      { 
+         "Id":"140015160",
+         "Name":"Ajay Chalak",
+         "Gender":"m",
+         "Code":"4455",
+         "Voted":"true"
+      },
+      { 
+         "Id":"140015161,",
+         "Name":"Devine Joyeuse",
+         "Gender":"f",
+         "Code":"5544",
+         "Voted":"false"
+      },
+      { 
+         "Id":"140015162",
+         "Name":"Devi Tulsi",
+         "Gender":"f",
+         "Code":"3300",
+         "Voted":"false"
+      },
+      { 
+         "Id":"140015163",
+         "Name":"Jules Tulcanon",
+         "Gender":"m",
+         "Code":"3301",
+         "Voted":"false"
+      }
+   ]
+}
